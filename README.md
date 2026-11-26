@@ -5,8 +5,7 @@
 # 👋 Hi, I'm Rishabh!
 
 🎯 Passionate MERN Stack Developer | Full Stack Web Developer | Tech Enthusiast  
-📍 Based in Varanasi, India  
-📚 Currently learning: Data Warehousing & Data Mining | Advanced SQL | System Design  
+
 
 ---
 
